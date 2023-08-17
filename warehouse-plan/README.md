@@ -3,7 +3,7 @@
 Modeling challenge: Given various colored liquids to be allocated into rows of boxes, each row having distinct height and accepting only specific colors.
 Unlike strict elongated boxing, liquids can be packed in multiple smaller boxes to better suit the fluid allocation problem.
 
-![Warehouse problem]()
+![Warehouse problem](https://github.com/dupliaka/optasamples/blob/master/warehouse-plan/src/main/resources/warehouse_planning.png?raw=true)
 
 We have a:
  - set of Liquids
